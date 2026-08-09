@@ -23,6 +23,7 @@ app.add_middleware(
         "https://biomind-hackverse2.netlify.app",
         "https://biomind-hackverse.vercel.app",
         "https://biomind-hackverse-fauk5h5wj-tanay-s-org.vercel.app",
+        "https://bio-mind-fixed-final.vercel.app/",
         "https://biomind-hackverse.vercel.app/",
         "http://localhost:5173",
         "http://localhost:3000",
