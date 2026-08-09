@@ -24,6 +24,7 @@ app.add_middleware(
         "https://biomind-hackverse.vercel.app",
         "https://biomind-hackverse-fauk5h5wj-tanay-s-org.vercel.app",
         "https://bio-mind-fixed-final.vercel.app/",
+        "https://bio-mind-fixed-final-git-main-harshityo1997-9177s-projects.vercel.app/",
         "https://biomind-hackverse.vercel.app/",
         "http://localhost:5173",
         "http://localhost:3000",
