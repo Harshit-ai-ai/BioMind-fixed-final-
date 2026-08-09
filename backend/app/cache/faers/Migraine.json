@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Erenumab",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Sumatriptan",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Zolmitriptan",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Galcanezumab",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Lasmiditan",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Lisinopril",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Losartan",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Amlodipine",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Metoprolol",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Hydrochlorothiazide",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

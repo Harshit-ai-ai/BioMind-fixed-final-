@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Albuterol",
+        "approved": true
+    },
+    {
+        "drug": "Fluticasone Propionate",
+        "approved": true
+    },
+    {
+        "drug": "Montelukast",
+        "approved": true
+    },
+    {
+        "drug": "Omalizumab",
+        "approved": true
+    },
+    {
+        "drug": "Mepolizumab",
+        "approved": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "HBV polymerase",
+        "drug": "Tenofovir Alafenamide"
+    },
+    {
+        "protein": "HBV polymerase",
+        "drug": "Entecavir"
+    },
+    {
+        "protein": "HBV polymerase",
+        "drug": "Lamivudine"
+    },
+    {
+        "protein": "HBsAg",
+        "drug": "Bulevirtide"
+    },
+    {
+        "protein": "Interferon receptor",
+        "drug": "Peginterferon alfa-2a"
+    }
+]

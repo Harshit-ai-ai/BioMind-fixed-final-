@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Ledipasvir",
+        "approved": true
+    },
+    {
+        "drug": "Sofosbuvir",
+        "approved": true
+    },
+    {
+        "drug": "Glecaprevir",
+        "approved": true
+    },
+    {
+        "drug": "Velpatasvir",
+        "approved": true
+    },
+    {
+        "drug": "Voxilaprevir",
+        "approved": true
+    }
+]

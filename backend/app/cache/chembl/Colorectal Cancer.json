@@ -1,0 +1,18 @@
+[
+    {
+        "protein": "TNF-alpha",
+        "drug": "Etanercept"
+    },
+    {
+        "protein": "IL-6 receptor",
+        "drug": "Tocilizumab"
+    },
+    {
+        "protein": "JAK1/JAK2 kinase",
+        "drug": "Tofacitinib"
+    },
+    {
+        "protein": "Glucocorticoid receptor",
+        "drug": "Prednisolone"
+    }
+]

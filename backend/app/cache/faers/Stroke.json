@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Alteplase",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Aspirin",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Clopidogrel",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Apixaban",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Dabigatran",
+        "black_box_warning": true,
+        "failed_trial": false
+    }
+]

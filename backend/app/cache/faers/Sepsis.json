@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Vancomycin",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Hydrocortisone",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Norepinephrine",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Gentamicin",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Levofloxacin",
+        "black_box_warning": true,
+        "failed_trial": false
+    }
+]

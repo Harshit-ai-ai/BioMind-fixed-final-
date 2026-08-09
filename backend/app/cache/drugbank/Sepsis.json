@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Vancomycin",
+        "approved": true
+    },
+    {
+        "drug": "Hydrocortisone",
+        "approved": true
+    },
+    {
+        "drug": "Norepinephrine",
+        "approved": true
+    },
+    {
+        "drug": "Gentamicin",
+        "approved": true
+    },
+    {
+        "drug": "Levofloxacin",
+        "approved": true
+    }
+]

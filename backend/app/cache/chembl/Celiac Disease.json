@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "Tissue transglutaminase 2 (tTG2)",
+        "drug": "ZLI-103"
+    },
+    {
+        "protein": "HLA-DQ2",
+        "drug": "Larazotide acetate"
+    },
+    {
+        "protein": "Gluten",
+        "drug": "Latiglutenase"
+    },
+    {
+        "protein": "IL-15",
+        "drug": "PRN-015"
+    },
+    {
+        "protein": "CCR9",
+        "drug": "Vercirnon"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Lisinopril",
+        "approved": true
+    },
+    {
+        "drug": "Losartan",
+        "approved": true
+    },
+    {
+        "drug": "Amlodipine",
+        "approved": true
+    },
+    {
+        "drug": "Metoprolol",
+        "approved": true
+    },
+    {
+        "drug": "Hydrochlorothiazide",
+        "approved": true
+    }
+]

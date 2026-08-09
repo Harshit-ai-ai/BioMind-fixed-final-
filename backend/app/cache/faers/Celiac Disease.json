@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "ZLI-103",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Larazotide acetate",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Latiglutenase",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "PRN-015",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Vercirnon",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

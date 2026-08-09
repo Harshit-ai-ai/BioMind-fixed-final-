@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Escitalopram",
+        "approved": true
+    },
+    {
+        "drug": "Sertraline",
+        "approved": true
+    },
+    {
+        "drug": "Duloxetine",
+        "approved": true
+    },
+    {
+        "drug": "Ketamine",
+        "approved": true
+    },
+    {
+        "drug": "Aripiprazole",
+        "approved": true
+    }
+]

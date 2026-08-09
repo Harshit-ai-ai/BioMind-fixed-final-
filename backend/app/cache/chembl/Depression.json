@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "5-HT transporter (SERT)",
+        "drug": "Escitalopram"
+    },
+    {
+        "protein": "5-HT transporter (SERT)",
+        "drug": "Sertraline"
+    },
+    {
+        "protein": "NET / SERT",
+        "drug": "Duloxetine"
+    },
+    {
+        "protein": "NMDA receptor",
+        "drug": "Ketamine"
+    },
+    {
+        "protein": "5-HT receptor",
+        "drug": "Aripiprazole"
+    }
+]

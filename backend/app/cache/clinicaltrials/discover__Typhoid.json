@@ -1,0 +1,22 @@
+[
+  {
+    "drug": "Azithromycin",
+    "protein": "Mechanism target not characterized (live ClinicalTrials.gov candidate)",
+    "source": "clinicaltrials.gov",
+    "nct_ids": [
+      "NCT00000001"
+    ],
+    "phase": "PHASE3",
+    "status_summary": "COMPLETED"
+  },
+  {
+    "drug": "Ceftriaxone",
+    "protein": "Mechanism target not characterized (live ClinicalTrials.gov candidate)",
+    "source": "clinicaltrials.gov",
+    "nct_ids": [
+      "NCT00000001"
+    ],
+    "phase": "PHASE3",
+    "status_summary": "COMPLETED"
+  }
+]

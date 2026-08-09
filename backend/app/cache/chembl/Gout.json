@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "Xanthine oxidase",
+        "drug": "Allopurinol"
+    },
+    {
+        "protein": "Xanthine oxidase",
+        "drug": "Febuxostat"
+    },
+    {
+        "protein": "Tubulin",
+        "drug": "Colchicine"
+    },
+    {
+        "protein": "IL-1 beta",
+        "drug": "Canakinumab"
+    },
+    {
+        "protein": "URAT1",
+        "drug": "Lesinurad"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "Bacterial cell wall",
+        "drug": "Vancomycin"
+    },
+    {
+        "protein": "Glucocorticoid receptor",
+        "drug": "Hydrocortisone"
+    },
+    {
+        "protein": "Alpha/Beta adrenergic receptors",
+        "drug": "Norepinephrine"
+    },
+    {
+        "protein": "Bacterial ribosome",
+        "drug": "Gentamicin"
+    },
+    {
+        "protein": "Bacterial DNA gyrase",
+        "drug": "Levofloxacin"
+    }
+]

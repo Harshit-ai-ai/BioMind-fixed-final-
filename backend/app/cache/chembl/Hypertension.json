@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "ACE",
+        "drug": "Lisinopril"
+    },
+    {
+        "protein": "Angiotensin II receptor",
+        "drug": "Losartan"
+    },
+    {
+        "protein": "L-type calcium channel",
+        "drug": "Amlodipine"
+    },
+    {
+        "protein": "Beta-1 adrenergic receptor",
+        "drug": "Metoprolol"
+    },
+    {
+        "protein": "Thiazide transporter",
+        "drug": "Hydrochlorothiazide"
+    }
+]

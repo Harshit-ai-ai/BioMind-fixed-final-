@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Tenofovir Alafenamide",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Entecavir",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Lamivudine",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Bulevirtide",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Peginterferon alfa-2a",
+        "black_box_warning": true,
+        "failed_trial": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Diazepam",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Carbamazepine",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Levetiracetam",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Valproate",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Lamotrigine",
+        "black_box_warning": true,
+        "failed_trial": false
+    }
+]

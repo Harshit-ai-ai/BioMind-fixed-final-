@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Erenumab",
+        "approved": true
+    },
+    {
+        "drug": "Sumatriptan",
+        "approved": true
+    },
+    {
+        "drug": "Zolmitriptan",
+        "approved": true
+    },
+    {
+        "drug": "Galcanezumab",
+        "approved": true
+    },
+    {
+        "drug": "Lasmiditan",
+        "approved": true
+    }
+]

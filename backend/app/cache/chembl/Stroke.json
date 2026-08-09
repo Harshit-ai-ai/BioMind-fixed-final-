@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "Plasminogen",
+        "drug": "Alteplase"
+    },
+    {
+        "protein": "COX-1",
+        "drug": "Aspirin"
+    },
+    {
+        "protein": "P2Y12 receptor",
+        "drug": "Clopidogrel"
+    },
+    {
+        "protein": "Factor Xa",
+        "drug": "Apixaban"
+    },
+    {
+        "protein": "Thrombin",
+        "drug": "Dabigatran"
+    }
+]

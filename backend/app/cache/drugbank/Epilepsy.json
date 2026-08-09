@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Diazepam",
+        "approved": true
+    },
+    {
+        "drug": "Carbamazepine",
+        "approved": true
+    },
+    {
+        "drug": "Levetiracetam",
+        "approved": true
+    },
+    {
+        "drug": "Valproate",
+        "approved": true
+    },
+    {
+        "drug": "Lamotrigine",
+        "approved": true
+    }
+]

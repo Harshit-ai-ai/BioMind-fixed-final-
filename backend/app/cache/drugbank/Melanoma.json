@@ -1,0 +1,18 @@
+[
+    {
+        "drug": "Etanercept",
+        "approved": true
+    },
+    {
+        "drug": "Tocilizumab",
+        "approved": true
+    },
+    {
+        "drug": "Tofacitinib",
+        "approved": true
+    },
+    {
+        "drug": "Prednisolone",
+        "approved": true
+    }
+]

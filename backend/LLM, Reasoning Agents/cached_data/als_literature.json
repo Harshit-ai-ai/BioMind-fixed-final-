@@ -1,0 +1,26 @@
+{
+  "_note": "Literature references updated with real PubMed-indexed publications. Abstract fields are concise paraphrased summaries (not copied verbatim) of the cited work. These references support the BioMind demonstration pipeline but should not be interpreted as evidence that metformin is an approved therapy for ALS.",
+  "disease": "Amyotrophic Lateral Sclerosis (ALS)",
+  "papers": [
+    {
+      "pmid": "31578233",
+      "title": "Molecular Mechanisms of TDP-43 Misfolding and Pathology in Amyotrophic Lateral Sclerosis",
+      "abstract": "TDP-43 aggregation and cytoplasmic mislocalization are defining pathological features of most ALS cases. Loss of normal nuclear TDP-43 function together with toxic protein aggregation disrupts RNA processing, stress responses and neuronal survival, making TDP-43 one of the principal molecular targets in ALS research."
+    },
+    {
+      "pmid": "32999281",
+      "title": "Why TDP-43? Why Not? Mechanisms of Metabolic Dysfunction in Amyotrophic Lateral Sclerosis",
+      "abstract": "Metabolic dysfunction is a prominent feature of ALS, and AMPK serves as a major regulator of cellular energy homeostasis. Evidence from experimental models indicates that AMPK signalling is altered during disease progression, although its role appears context-dependent and may vary across ALS models."
+    },
+    {
+      "pmid": "33161784",
+      "title": "Metformin as a Potential Therapeutic for Neurological Disease: Mobilizing AMPK to Repair the Nervous System",
+      "abstract": "Metformin influences multiple cellular pathways including AMPK activation, mitochondrial function and autophagy. Because impaired energy metabolism and defective protein clearance contribute to neurodegeneration, metformin has been investigated as a potential drug-repurposing candidate for neurological disorders, although clinical benefit in ALS remains unproven."
+    },
+    {
+      "pmid": "28776086",
+      "title": "The Mechanisms of Action of Metformin",
+      "abstract": "Metformin has a well-established long-term safety profile in the treatment of type 2 diabetes mellitus. Common adverse effects are gastrointestinal, while rare but serious complications such as lactic acidosis are primarily associated with severe renal impairment or other contraindicated clinical conditions. The drug has no FDA black-box warning under standard prescribing conditions."
+    }
+  ]
+}

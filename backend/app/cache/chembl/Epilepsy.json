@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "GABA-A receptor",
+        "drug": "Diazepam"
+    },
+    {
+        "protein": "Sodium channel",
+        "drug": "Carbamazepine"
+    },
+    {
+        "protein": "SV2A",
+        "drug": "Levetiracetam"
+    },
+    {
+        "protein": "GABA transaminase",
+        "drug": "Valproate"
+    },
+    {
+        "protein": "Sodium channel",
+        "drug": "Lamotrigine"
+    }
+]

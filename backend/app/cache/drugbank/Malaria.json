@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Chloroquine",
+        "approved": true
+    },
+    {
+        "drug": "Artemether",
+        "approved": true
+    },
+    {
+        "drug": "Pyrimethamine",
+        "approved": true
+    },
+    {
+        "drug": "Atovaquone",
+        "approved": true
+    },
+    {
+        "drug": "Doxycycline",
+        "approved": true
+    }
+]

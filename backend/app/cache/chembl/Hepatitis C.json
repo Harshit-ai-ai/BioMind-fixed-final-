@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "NS5A",
+        "drug": "Ledipasvir"
+    },
+    {
+        "protein": "NS5B RNA polymerase",
+        "drug": "Sofosbuvir"
+    },
+    {
+        "protein": "NS3/4A protease",
+        "drug": "Glecaprevir"
+    },
+    {
+        "protein": "NS5A",
+        "drug": "Velpatasvir"
+    },
+    {
+        "protein": "NS3/4A protease",
+        "drug": "Voxilaprevir"
+    }
+]

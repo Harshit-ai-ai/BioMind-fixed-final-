@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Albuterol",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Fluticasone Propionate",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Montelukast",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Omalizumab",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Mepolizumab",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

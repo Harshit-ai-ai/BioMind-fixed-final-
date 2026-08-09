@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "HIV-1 Reverse Transcriptase",
+        "drug": "Zidovudine"
+    },
+    {
+        "protein": "HIV-1 Integrase",
+        "drug": "Dolutegravir"
+    },
+    {
+        "protein": "HIV-1 Protease",
+        "drug": "Darunavir"
+    },
+    {
+        "protein": "HIV-1 Reverse Transcriptase",
+        "drug": "Efavirenz"
+    },
+    {
+        "protein": "CCR5 co-receptor",
+        "drug": "Maraviroc"
+    }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Hybrid Neural--Bayesian Belief Network Framework for Uncertainty-Aware Multimodal GBM Prediction",
+    "abstract": "Background and ObjectiveGlioblastoma outcome prediction remains difficult because clinically relevant signals are distributed across heterogeneous imaging and genomic modalities, cohorts are small, and conventional neural predictors do not quantify their own uncertainty. This study evaluates a hybrid neural-Bayesian belief network framework for uncertainty-aware multimodal glioblastoma prediction and examines how modality selection, model family, and structure-aware regularization affect predictive performance and confidence quality.\n\nMethodsThe framework was evaluated on the TCGA-GBM radiogenomic cohort using four input modalities (T1Gd, FLAIR, mRNA, and CNA), five model families, five structural-weight settings, and 15 view subsets. A secondary benchmark on the UCI Human Activity Recognition dataset was included to assess whether observed limitations were specific to the glioblastoma setting.\n\nResultsCNA features consistently reduced performance in most multimodal settings, and selective fusion excluding CNA outperformed both the full four-view baseline and imaging-only alternatives. Model families showed clear differences in uncertainty behaviour: non-Bayesian families achieved the strongest predictive accuracy, whereas the Bayesian family achieved the lowest calibration error over a narrower confidence range. Bayesian belief network regularization produced consistent directional improvements without supporting reliable structure-discovery claims, as learned graph structures were not reproducible across folds. On the secondary bench-mark, the same framework achieved much higher predictive performance, indicating that the glioblastoma performance ceiling primarily reflects data limitations rather than an architectural constraint.\n\nConclusionsIn small-sample radiogenomic prediction, modality choice is at least as important as model choice, and uncertainty quality differs substantially across uncertainty-aware model families. The proposed framework provides a practical basis for comparing accuracy, calibration, modality selection, and structure-aware regularization in multimodal biomedical prediction.",
+    "authors": "Jayme, A.; Heuveline, V.",
+    "doi": "10.64898/2026.05.10.26352710",
+    "id": "10.64898/2026.05.10.26352710",
+    "year": "2026",
+    "source": "medRxiv",
+    "peer_reviewed": false
+  }
+]

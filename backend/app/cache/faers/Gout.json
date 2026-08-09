@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Allopurinol",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Febuxostat",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Colchicine",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Canakinumab",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Lesinurad",
+        "black_box_warning": true,
+        "failed_trial": false
+    }
+]

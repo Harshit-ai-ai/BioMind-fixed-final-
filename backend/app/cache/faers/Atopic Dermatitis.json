@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Etanercept",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Tocilizumab",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Tofacitinib",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Prednisolone",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

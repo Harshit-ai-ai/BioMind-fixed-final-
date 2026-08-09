@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Allopurinol",
+        "approved": true
+    },
+    {
+        "drug": "Febuxostat",
+        "approved": true
+    },
+    {
+        "drug": "Colchicine",
+        "approved": true
+    },
+    {
+        "drug": "Canakinumab",
+        "approved": true
+    },
+    {
+        "drug": "Lesinurad",
+        "approved": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "drug": "Pitolisant",
+    "protein": "Orexin/Hypocretin pathway",
+    "source": "clinicaltrials.gov",
+    "nct_ids": [
+      "NCT01100022"
+    ],
+    "phase": "PHASE3",
+    "status_summary": "COMPLETED"
+  },
+  {
+    "drug": "Solriamfetol",
+    "protein": "Orexin/Hypocretin pathway",
+    "source": "clinicaltrials.gov",
+    "nct_ids": [
+      "NCT02000033"
+    ],
+    "phase": "PHASE2",
+    "status_summary": "TERMINATED"
+  }
+]

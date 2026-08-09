@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Semaglutide",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Liraglutide",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Orlistat",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Setmelanotide",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Phentermine",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

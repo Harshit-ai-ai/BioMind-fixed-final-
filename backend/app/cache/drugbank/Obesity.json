@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Semaglutide",
+        "approved": true
+    },
+    {
+        "drug": "Liraglutide",
+        "approved": true
+    },
+    {
+        "drug": "Orlistat",
+        "approved": true
+    },
+    {
+        "drug": "Setmelanotide",
+        "approved": true
+    },
+    {
+        "drug": "Phentermine",
+        "approved": true
+    }
+]

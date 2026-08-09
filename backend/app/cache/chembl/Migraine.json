@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "CGRP receptor",
+        "drug": "Erenumab"
+    },
+    {
+        "protein": "5-HT1B receptor",
+        "drug": "Sumatriptan"
+    },
+    {
+        "protein": "5-HT1D receptor",
+        "drug": "Zolmitriptan"
+    },
+    {
+        "protein": "CGRP",
+        "drug": "Galcanezumab"
+    },
+    {
+        "protein": "5-HT1F receptor",
+        "drug": "Lasmiditan"
+    }
+]

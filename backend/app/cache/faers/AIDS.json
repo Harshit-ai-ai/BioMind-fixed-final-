@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Zidovudine",
+        "black_box_warning": true,
+        "failed_trial": false
+    },
+    {
+        "drug": "Dolutegravir",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Darunavir",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Efavirenz",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Maraviroc",
+        "black_box_warning": true,
+        "failed_trial": false
+    }
+]

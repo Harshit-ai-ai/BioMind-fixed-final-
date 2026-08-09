@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Tenofovir Alafenamide",
+        "approved": true
+    },
+    {
+        "drug": "Entecavir",
+        "approved": true
+    },
+    {
+        "drug": "Lamivudine",
+        "approved": true
+    },
+    {
+        "drug": "Bulevirtide",
+        "approved": true
+    },
+    {
+        "drug": "Peginterferon alfa-2a",
+        "approved": true
+    }
+]

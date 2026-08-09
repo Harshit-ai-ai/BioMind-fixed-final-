@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Zidovudine",
+        "approved": true
+    },
+    {
+        "drug": "Dolutegravir",
+        "approved": true
+    },
+    {
+        "drug": "Darunavir",
+        "approved": true
+    },
+    {
+        "drug": "Efavirenz",
+        "approved": true
+    },
+    {
+        "drug": "Maraviroc",
+        "approved": true
+    }
+]

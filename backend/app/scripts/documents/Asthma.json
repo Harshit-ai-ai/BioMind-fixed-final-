@@ -1,0 +1,12 @@
+[
+    {
+        "pmid": "1001",
+        "title": "Airway Inflammation and remodeling in Asthma",
+        "abstract": "Asthma is characterized by chronic airway inflammation mediated by Th2 cytokines including IL-4, IL-5, and IL-13. IgE binding to FceRI on mast cells triggers degranulation, releasing histamine and leukotrienes."
+    },
+    {
+        "pmid": "1002",
+        "title": "Beta-2 adrenergic receptor signaling in bronchial smooth muscle",
+        "abstract": "Beta-2 adrenergic receptors (ADRbeta2) modulate smooth muscle relaxation. Bronchodilators targeting ADRbeta2 are standard rescue therapies, while inhaled corticosteroids target glucocorticoid receptors to suppress inflammation."
+    }
+]

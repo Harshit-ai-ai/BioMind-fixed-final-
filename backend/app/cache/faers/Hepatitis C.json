@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Ledipasvir",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Sofosbuvir",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Glecaprevir",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Velpatasvir",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Voxilaprevir",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

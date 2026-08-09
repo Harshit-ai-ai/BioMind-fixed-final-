@@ -1,0 +1,42 @@
+[
+  {
+    "title": "A mitochondrial quality control mechanism reverses the phagosome maturation arrest caused by Mycobacterium tuberculosis",
+    "abstract": "Phagosome maturation arrest (PMA) imposed by Mycobacterium tuberculosis (Mtb) is a classic tool that helps Mtb evade macrophage anti-bacterial responses. The exclusion of RAB7, a small GTPase, from Mtb-phagosomes causes PMA. Here, we report an unexpected mechanism that triggers crosstalk between the mitochondrial quality control (MQC) and the phagosome maturation pathways that reverses the PMA. CRISPR-mediated p62/SQSTM1 depletion (p62KD) does not appear to impact mitochondrial quality. The p62KD cells are restrictive to Mtb growth, triggered by an increasingly oxidative environment and increased lysosomal targeting. The lysosomal targeting of Mtb is facilitated by enhanced TOM20+ mitochondria-derived vesicles (MDVs) biogenesis, a key MQC mechanism. In p62KD cells, TOM20+-MDVs biogenesis is MIRO1/MIRO2-dependent and gets delivered to lysosomes for degradation in a RAB7-dependent manner. Upon infection in p62KD cells, TOM20+-MDVs get extensively targeted to Mtb-phagosomes, inadvertently facilitating RAB7 recruitment, PMA reversal and lysosomal targeting of Mtb; the phenotype also replicated in p62/SQSTM1 knockout cells. Triggering MQC collapse in p62KDcells further diminishes Mtb survival, signifying cooperation between redox- and lysosome-mediated mechanisms. The MQC-anti-bacterial pathway crosstalk could be exploited for host-directed anti-tuberculosis therapies.",
+    "authors": "Verma, S.; Thakur, S.; Das, M.; Sharma, R. D.; Yadav, V.; Sharma, P.; Marzuki, M.; Foo, S.; Piperno, G. M.; Khan, M. Z.; Mathew, B.; Bajpai, M.; Maras, J. S.; Howland, S.; Sarkar, S.; Benvenuti, F.; Singh, A.; Nandicoori, V.; Singhal, A.; Kumar, D.",
+    "doi": "10.1101/2023.12.01.569475",
+    "id": "10.1101/2023.12.01.569475",
+    "year": "2026",
+    "source": "bioRxiv",
+    "peer_reviewed": false
+  },
+  {
+    "title": "Activity of a three-phage combination against Mycobacterium tuberculosis in disease-relevant conditions",
+    "abstract": "Phage therapy offers promise to combat antimicrobial resistance, including drug-resistant tuberculosis (TB). Understanding phage activity against Mycobacterium tuberculosis (Mtb) adapted to physiologic microenvironments, such as hypoxia and acidity in granulomas, is essential since these conditions induce non-replicating states. We evaluated a phage combination against Mtb under hypoxic, acidic (pH 5.5), and stationary-phase conditions in vitro.\n\nIn planktonic Mtb growth conditions, phage concentrations increased around day seven followed by a significant reduction in Mtb H37Rv load, which was maintained over 31 days. Phage addition prevented regrowth was observed with rifampicin and isoniazid alone. Individual phage stability was differentially affected by acidic media conditions, resulting in variability of antimycobacterial activity. In hypoxic conditions and stationary growth experiments, phage titers remained stable over time with no change in mycobacterial load compared to controls. Model-based predictions were able to adequately capture phage-mycobacterial interactions with and without rifampicin.\n\nThe lack of antimycobacterial activity in assays with non-replicating mycobacteria suggest that phages need actively replicating mycobacteria to exert lytic activity. Stable phage concentrations in assays with non-replicating mycobacteria suggests low grade phage replication in these conditions. Established models can support future study design through simulations of different experimental scenarios.",
+    "authors": "Janssen, S.; Larsen, S. E.; Torres, M. P.; Beldjenna, M.; Guerrero Bustamante, C.; Florian, I.; Smytheman, T.; Guo, T.; van Wijk, R.; Hatfull, G. F.; Diacon, A. H.; Coler, R.; van Ingen, J.",
+    "doi": "10.64898/2026.05.11.724220",
+    "id": "10.64898/2026.05.11.724220",
+    "year": "2026",
+    "source": "bioRxiv",
+    "peer_reviewed": false
+  },
+  {
+    "title": "Predictors of treatment outcomes in adults with drug-sensitive Tuberculosis in Maharashtra, India: A retrospective study",
+    "abstract": "BackgroundTuberculosis (TB) remains the leading infectious cause of death worldwide, with India accounting for nearly one-fourth of global TB cases. Ni-kshay, the countrys digital case-based TB notification platform is rich in data pertaining to the continuum of care of TB patients. This study aims to develop a standardized analytical approach to programmatic data to identify predictors of unfavourable treatment outcomes and mortality among adult drug-sensitive TB patients at the state level for Maharashtra during 2021 and 2022.\n\nMethodsTwo separate analyses were undertaken comparing treatment success with: (1) unfavourable outcomes (death, treatment failure, loss to follow-up, regimen change, or not evaluated); and (2) mortality. Multivariate logistic regression was used to compute adjusted odds ratios (aOR) for key risk factors, adjusting for age, gender, and weight.\n\nResultsThe final cohort included 323,124 cases for unfavourable outcome analysis and 315,579 cases for mortality analysis. Increasing age, male gender, lower body weight, known HIV and diabetes comorbidities, tobacco and alcohol consumption, and \"unknown\" status for behavioural risks and comorbidity status were significantly associated with increased odds of both unfavourable outcomes and mortality.\n\nConclusionsThis study highlights the utility of programmatic data in identifying high-risk TB patients and offers a reproducible analytic framework.",
+    "authors": "Parthasarathy, R.; Raj, Y.; Majumder, N.; Mitra, M.; Mehra, S.; Rao, R.; Rajan, S.",
+    "doi": "10.64898/2026.05.12.26352988",
+    "id": "10.64898/2026.05.12.26352988",
+    "year": "2026",
+    "source": "medRxiv",
+    "peer_reviewed": false
+  },
+  {
+    "title": "Potential limitations of community-wide strategy to treat Mycobacterium tuberculosis infection",
+    "abstract": "A quarter of the worlds population has immunologic evidence of past or present Mycobacterium tuberculosis (Mtb) infection (MTBI) detected as TST or IGRA positivity. Community-based preventive treatment of individuals with MTBI has resulted in transient decreases in TB cases, but its long-term effectiveness has been controversial. Due to the likelihood that many of those with immune responses to Mtb antigens may no longer harbor Mtb, widespread treatment of all such individuals may result in unnecessary exposure to antibiotics. We raise an additional concern that preventive treatment of individuals with MTBI, who are not at the risk of disease progression, may result in loss of protective immunity, provided by the persistent infection, and enhanced risk of TB upon re-exposure to Mtb. There is evidence from human cohorts and animal studies that prior exposure to Mtb confers protection against TB development upon re-exposure, and that treatment of Mtb-infected animals often results in loss of this protection. We build a novel epidemiological model of Mtb dynamics and progression to TB in a community allowing for protection afforded by MTBI against exogenous reinfection-driven disease progression. We show that implementation of treatment of MTBI in the whole community will result in reduction of TB cases but stopping the program may result in an increase in new TB cases that may offset (or even exceed) benefits of the preventive treatment program. Our results suggest that better understanding protective effects provided by MTBI against progression to TB upon Mtb re-exposure and identification of Mtb-infected individuals who most benefit from preventive treatment must be a priority before preventive treatment of asymptomatic MTBI is widely implemented.",
+    "authors": "Batabyal, S.; Urdahl, K.; Ganusov, V. V.",
+    "doi": "10.64898/2026.05.13.26353093",
+    "id": "10.64898/2026.05.13.26353093",
+    "year": "2026",
+    "source": "medRxiv",
+    "peer_reviewed": false
+  }
+]

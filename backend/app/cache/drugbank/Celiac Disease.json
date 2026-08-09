@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "ZLI-103",
+        "approved": true
+    },
+    {
+        "drug": "Larazotide acetate",
+        "approved": true
+    },
+    {
+        "drug": "Latiglutenase",
+        "approved": true
+    },
+    {
+        "drug": "PRN-015",
+        "approved": true
+    },
+    {
+        "drug": "Vercirnon",
+        "approved": true
+    }
+]

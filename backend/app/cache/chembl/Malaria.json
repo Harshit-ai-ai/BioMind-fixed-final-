@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "Heme polymerase",
+        "drug": "Chloroquine"
+    },
+    {
+        "protein": "Sarcoplasmic/endoplasmic reticulum calcium ATPase",
+        "drug": "Artemether"
+    },
+    {
+        "protein": "Dihydrofolate reductase",
+        "drug": "Pyrimethamine"
+    },
+    {
+        "protein": "Electron transport chain Complex III",
+        "drug": "Atovaquone"
+    },
+    {
+        "protein": "Ribosome 30S subunit",
+        "drug": "Doxycycline"
+    }
+]

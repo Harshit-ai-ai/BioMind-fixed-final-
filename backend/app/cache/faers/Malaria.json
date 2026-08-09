@@ -1,0 +1,27 @@
+[
+    {
+        "drug": "Chloroquine",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Artemether",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Pyrimethamine",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Atovaquone",
+        "black_box_warning": false,
+        "failed_trial": false
+    },
+    {
+        "drug": "Doxycycline",
+        "black_box_warning": false,
+        "failed_trial": false
+    }
+]

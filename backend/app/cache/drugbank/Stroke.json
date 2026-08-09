@@ -1,0 +1,22 @@
+[
+    {
+        "drug": "Alteplase",
+        "approved": true
+    },
+    {
+        "drug": "Aspirin",
+        "approved": true
+    },
+    {
+        "drug": "Clopidogrel",
+        "approved": true
+    },
+    {
+        "drug": "Apixaban",
+        "approved": true
+    },
+    {
+        "drug": "Dabigatran",
+        "approved": true
+    }
+]

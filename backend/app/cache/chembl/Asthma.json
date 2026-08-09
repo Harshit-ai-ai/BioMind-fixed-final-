@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "Beta-2 adrenergic receptor",
+        "drug": "Albuterol"
+    },
+    {
+        "protein": "Glucocorticoid receptor",
+        "drug": "Fluticasone Propionate"
+    },
+    {
+        "protein": "Cysteinyl leukotriene receptor 1",
+        "drug": "Montelukast"
+    },
+    {
+        "protein": "IgE",
+        "drug": "Omalizumab"
+    },
+    {
+        "protein": "IL-5",
+        "drug": "Mepolizumab"
+    }
+]

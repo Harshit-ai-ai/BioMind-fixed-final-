@@ -1,0 +1,22 @@
+[
+    {
+        "protein": "GLP-1 receptor",
+        "drug": "Semaglutide"
+    },
+    {
+        "protein": "GLP-1 receptor",
+        "drug": "Liraglutide"
+    },
+    {
+        "protein": "Lipase",
+        "drug": "Orlistat"
+    },
+    {
+        "protein": "MC4 receptor",
+        "drug": "Setmelanotide"
+    },
+    {
+        "protein": "GABA-A receptor",
+        "drug": "Phentermine"
+    }
+]
